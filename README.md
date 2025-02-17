@@ -44,7 +44,7 @@
     - 가까운 Edge Location에서 캐싱된 서비스를 제공해 빠름
 - **캐시 무효화(Cache Invalidation):**
   - CDN을 통해 캐싱된 파일을 제공하면, 변경 내용이 있어도 자동으로 캐싱이 되는 것은 아니기 때문에 바로 서비스에 반영되지 않을 수 있음!
-    ![image.png](attachment:dd475950-3d3d-4d12-888d-871025d07121:image.png)
+    ![image](https://github.com/user-attachments/assets/f2e9a08a-87ec-417c-bc14-ce17b13e444d)
   - 이 문제를 해결하기 위해 캐시 무효화를 실행해서 변경 내용을 반영
   - CloudFront Invalidation을 실행해 캐시 무효화하는 명령
     `aws cloudfront create-invalidation --distribution-id <배포ID> --paths "/*"` - 배포 ID : CloudFront 배포를 생성할 때 자동 생성된 ID
