@@ -85,7 +85,8 @@
 | 리소스 (kB) | 479 | 479 |  |
 | 완료시간 (ms) | 1940 | 461 | 76.2% 개선 |
 
-![image.png](attachment:8db2694b-8a5f-4ca7-8226-9fd3e0baefa5:image.png)
+![image](https://github.com/user-attachments/assets/2d4fcc31-52d5-4394-a130-d58d10058e98)
+
 
 ### Queueing (대기열)
 
@@ -163,7 +164,8 @@ Waiting for server response
 
 CDN은 압축 및 최적화를 통해 전송 데이터 크기를 줄임
 
-![image.png](attachment:04cc2824-39c0-4ae6-a377-f829463884bc:image.png)
+![image](https://github.com/user-attachments/assets/d5381e1e-8c05-44a2-9a0f-e3b16347c2ea)
+
 
 ### LCP (Largest Contentful Paint)
 
@@ -219,7 +221,7 @@ UI 반응성이 사용자의 만족도에 직접적인 영향을 미침
 
 ### Lighthouse
 
-![image.png](attachment:ff5697b7-302e-4902-8c16-c32428e884d2:image.png)
+![image](https://github.com/user-attachments/assets/e1c38a3e-8f6c-4399-90f1-24f0c267ca5f)
 
 CDN적용 전은 Performance (성능)면에서 뒤쳐짐. 웹 페이지의 로딩 속도와 사용자 체감 성능이 비교적 나쁘다는 것을 의미.
 
